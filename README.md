@@ -1,2 +1,2 @@
-# Adam-and-Arinjay
+# Adam
 IT Assessment
